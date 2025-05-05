@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+*.sqlite3
+
+# VSCode
+.vscode/
+
+# Node.js (nếu dùng)
+node_modules/
